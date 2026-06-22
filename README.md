@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abimanyu</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI Enthusiast | Problem Solver
+Computer Science Engineering Student
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ Computer Science Engineering Student | AI Enthusiast | Problem Solver
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abik0493@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -28,15 +28,8 @@ Computer Science Engineering Student | AI Enthusiast | Problem Solver
 
 🌱 Currently Learning:
 - Data Structures & Algorithms
-- Machine Learning
-- Linux & DevOps
-- RAG Systems
-
-🎯 Goals:
-- Crack top internships
-- Contribute to Open Source
-- Build AI-powered applications
-- Maintain strong academic performance
+- Backend Developement
+- linux
 
 ⚡ Fun Fact:
 - I enjoy solving coding challenges and learning new technologies.
@@ -78,8 +71,6 @@ Computer Science Engineering Student | AI Enthusiast | Problem Solver
 🏅 LeetCode 100 Days Badge
 
 💻 AI & Python Projects
-
-📚 GATE Aspirant
 
 🚀 Open Source Learner
 
