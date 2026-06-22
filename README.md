@@ -43,7 +43,7 @@ Computer Science Engineering Student
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
 ---
