@@ -50,22 +50,6 @@ Computer Science Engineering Student
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abimanyu-07&show_icons=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abimanyu-07"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abimanyu-07&layout=compact"/>
-</p>
-
----
-
 # 🏆 Achievements
 
 🏅 LeetCode 100 Days Badge
