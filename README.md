@@ -22,7 +22,7 @@ Computer Science Engineering Student
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 🎓 B.E Computer Science Engineering Student
 
@@ -67,7 +67,7 @@ Computer Science Engineering Student
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/abimanyu-k">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
