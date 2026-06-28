@@ -9,7 +9,7 @@ Computer Science Engineering Student
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/abimanyu-k">
+<a href="https://linkedin.com/in/abimanyu-k-55b31632a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -65,7 +65,7 @@ Computer Science Engineering Student
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/abimanyu-k">
+<a href="https://linkedin.com/in/abimanyu-k-55b31632a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
