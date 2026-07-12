@@ -38,7 +38,7 @@ Computer Science Engineering Student
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,postgresql"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,postgresql"/>
 </p>
 
 ### Tools & Platforms
