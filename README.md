@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abimanyu</h1>
 
 <h3 align="center">
-Computer Science Engineering Student
+Computer Science Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+Enthusiast;Python+Developer;Open+Source+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+Enthusiast;" />
 </p>
 
 <p align="center">
@@ -50,11 +50,9 @@ Computer Science Engineering Student
 
 # 🏆 Achievements
 
-🏅 LeetCode 100 Days Badge
+🏅 LeetCode 200 Days Badge
 
 💻 AI & Python Projects
-
-🚀 Open Source Learner
 
 ---
 
